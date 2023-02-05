@@ -29,6 +29,34 @@ const sampleEmailData = [
     body: 'This is a sample email',
     sender: 'John Doe',
     date: '2020-01-01',
+  },
+  {
+    id: 4,
+    title: 'Hello World',
+    body: 'This is a sample email',
+    sender: 'John Doe',
+    date: '2020-01-01',
+  },
+  {
+    id: 5,
+    title: 'Hello World',
+    body: 'This is a sample email',
+    sender: 'John Doe',
+    date: '2020-01-01',
+  },
+  {
+    id: 6,
+    title: 'Hello World',
+    body: 'This is a sample email',
+    sender: 'John Doe',
+    date: '2020-01-01',
+  },
+  {
+    id: 7,
+    title: 'Hello World',
+    body: 'This is a sample email',
+    sender: 'John Doe',
+    date: '2020-01-01',
   }
 ]
 
